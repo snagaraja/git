@@ -247,4 +247,8 @@ print(special_needs)
 # COMMAND ----------
 
 # MAGIC %sql
+<<<<<<< Updated upstream
 # MAGIC SELECT * FROM `dais-hackathon-2025`.bright_initiative.google_maps_businesses
+=======
+# MAGIC SELECT * FROM `dais-hackathon-2025`.bright_initiative.google_maps_businesses
+>>>>>>> Stashed changes
